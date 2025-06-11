@@ -18,10 +18,10 @@ This project focused on automated testing of the Dmoney API using Postman for de
 
 ###### Caution: You must have the .env file to run this project
 
-## dmoney-API-automation Documentation
+## Dmoney REST API Automation Documentation
 https://documenter.getpostman.com/view/45414936/2sB2x5Ht8M
 
-Test Case Documentation
+## Test Case Documentation
 https://docs.google.com/spreadsheets/d/1GMtWtaCOgUfkopASbdG-_Jrq8pUdCdPo/edit?gid=1891298462#gid=1891298462
 
 
