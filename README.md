@@ -21,6 +21,9 @@ This project focused on automated testing of the Dmoney API using Postman for de
 ## dmoney-API-automation Documentation
 https://documenter.getpostman.com/view/45414936/2sB2x5Ht8M
 
+Test Case Documentation
+https://docs.google.com/spreadsheets/d/1GMtWtaCOgUfkopASbdG-_Jrq8pUdCdPo/edit?gid=1891298462#gid=1891298462
+
 
 ## Report
 ![image](https://github.com/user-attachments/assets/5eac7005-e5e7-42aa-8a4f-3b8519afca66)
